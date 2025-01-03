@@ -4,7 +4,7 @@
 
 This Excel file includes a detailed analysis of customer churn rates for a telecom company. The analysis identifies key factors contributing to churn, visualizes trends, and provides actionable recommendations to improve customer retention.
 
-### What’s Included:
+## What’s Included:
 
 **Data Cleaning & Preparation:**  
 -Organized raw data and handled missing values using Excel formulas and filtering techniques.  
