@@ -17,7 +17,7 @@ This Excel file includes a detailed analysis of customer churn rates for a telec
 Calculated churn rates across different customer segments (e.g., contract type, monthly charges, total charges).
 
 
-## Dashboard Creation:
+**Dashboard Creation:**
 ![image](https://github.com/user-attachments/assets/92fd7c45-a91c-4ccc-81ed-21227f7fe6bc)
 
 **Built interactive dashboards using:**
