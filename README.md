@@ -1,8 +1,10 @@
 **Churn Rates Analysis and Dashboard**
+
 **Description:**
 This Excel file includes a detailed analysis of customer churn rates for a telecom company. The analysis identifies key factors contributing to churn, visualizes trends, and provides actionable recommendations to improve customer retention.
 
 **What’s Included:**
+
 **Data Cleaning & Preparation:**
 Organized raw data and handled missing values using Excel formulas and filtering techniques.
 Structured the dataset for analysis with clear headers and categories.
@@ -12,6 +14,8 @@ Calculated churn rates across different customer segments (e.g., contract type, 
 Identified key churn reasons and categorized them based on their frequency and impact.
 
 **Dashboard Creation:**
+![image](https://github.com/user-attachments/assets/92fd7c45-a91c-4ccc-81ed-21227f7fe6bc)
+
 Built interactive dashboards using:
 Pivot Tables to summarize churn metrics by segments.
 Charts (bar, pie, and Pareto charts) to visualize key insights.
@@ -20,9 +24,10 @@ Highlighted actionable insights, such as:
 Majority of churned customers are on month-to-month contracts.
 Competitor offers and dissatisfaction are the top churn reasons.
 
-Recommendations:
+**Recommendations:**
+
 Suggestions to address key churn drivers and retain high-value customers.
 
 **Tools Used:**
-Microsoft Excel (Pivot Tables, Formulas, Charts).
+@MicrosoftExcel (Pivot Tables, Formulas, Charts).
 
